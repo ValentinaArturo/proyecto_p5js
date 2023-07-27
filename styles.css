@@ -76,10 +76,12 @@
 
   .items{
     margin-bottom: 0.5rem;
-    font-size: 0.5rem;
+    font-size: 1rem;
     line-height: 0.6;
-    margin-left: 10px;
-    margin-right: 10px;
+  }
+
+  .items a{
+    padding: 15px;
   }
 	
 }
@@ -154,10 +156,11 @@
 
   .items{
     margin-bottom: 0.5rem;
-    font-size: 0.5rem;
+    font-size: 1rem;
     line-height: 0.6;
-    margin-left: 10px;
-    margin-right: 10px;
+  }
+  .items a{
+    padding: 15px;
   }
 }
 
