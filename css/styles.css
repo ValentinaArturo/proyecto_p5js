@@ -171,6 +171,7 @@
 body {
   font-family: Times, serif;
   color: white;
+  scroll-behavior: smooth;
   font-family: 'Source Sans Pro', sans-serif;
   background-color: #252525;
 }
@@ -218,7 +219,7 @@ body {
   
   .bio {
     margin: 2rem auto;
-    max-width: 40rem;
+    max-width: 78rem;
   }
   
   .bio > h2 {
@@ -331,9 +332,8 @@ body {
 		.title-paragraph{
       padding: 10px 0;
     }
-
-	
-
-	
-
+    
+    html {
+      scroll-behavior: smooth;
+    }
 	
